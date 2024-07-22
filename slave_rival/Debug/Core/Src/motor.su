@@ -1,0 +1,3 @@
+../Core/Src/motor.c:30:6:MotorSetSpeed	32	static
+../Core/Src/motor.c:81:6:omniKine	88	static
+../Core/Src/motor.c:104:6:MotorSetPWM	24	static

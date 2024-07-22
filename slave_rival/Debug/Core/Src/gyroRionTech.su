@@ -1,0 +1,3 @@
+../Core/Src/gyroRionTech.c:40:6:init_gyro	16	static
+../Core/Src/gyroRionTech.c:52:6:gyroUART_handler	32	static
+../Core/Src/gyroRionTech.c:106:6:gyro_reset	24	static
